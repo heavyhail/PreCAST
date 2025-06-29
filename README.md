@@ -1,0 +1,1 @@
+Lookup tables (NETCDF format) needed to calculate the lightning, large hail and very large hail probabilities can be found here: https://www.dropbox.com/scl/fo/0w26zxi2484vnuivo1aqq/AHPqZYn4zqufhf-7uo5Ue_A?rlkey=bjg8yet3jthby7u3wuok1jtgi&st=fbbg6nbz&dl=0
